@@ -4,17 +4,17 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "EAT"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+    Estudos Avançados em Teologia
 
-email: a-mail@mail.mail
+email: brunocavalar@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/eat-logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
+cover: "/assets/images/cover.png"
 
 name: 'Dirk Fabisch'
 author: 'Dirk Fabisch'
