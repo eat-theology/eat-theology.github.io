@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Em 2015 e 2016, eu (Bruno), o Felipe, a Thais, a Talyta e outros amigos
+Desde 2015 e 2016, eu (Bruno), o Felipe, a Thais, a Talyta e outros amigos
 temos organizado um grupo de leitura, no qual lemos em conjunto um livro
 Cristão para nossa edificação. O objetivo é que aprofundemos a nossa
 compreensão e a nossa prática em questões-chave da vida Cristã. Agora,
