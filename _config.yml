@@ -4,9 +4,9 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "EAT"
+title: "Ceia do Senhor"
 description: > # this means to ignore newlines until "email:"
-    Estudos Avançados em Teologia
+    Uma miniatura do universo
 
 email: brunocavalar@gmail.com
 #blog logo
