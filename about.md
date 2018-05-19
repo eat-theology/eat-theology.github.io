@@ -20,15 +20,12 @@ implicações para a nossa vida, e muito mais. Acreditamos que esse tema
 seja rico o suficiente para abarcar muitas questões da vida e da
 teologia. Como disse Lutero, a Ceia é nada menos que o próprio evangelho.
 
-­Para nossa primeira reunião, teremos a presença do pastor Uriesou Brito,
-que nos dará uma aula sobre os sacramentos na confissão de Westminster
-dia 12 de maio, às 15 horas. Uriesou Brito nasceu no Nordeste do Brasil e
-vive nos Estados Unidos há 20 anos. Obteve seu B. A. em Pastoral Studies
-na  Clearwater Christian College e um M.Div. na Reformed Theological
-Seminary (RTS)/Orlando. Atualmente está estudando para obter um Doctor of
-Ministry em Teologia e Ministério Reformados. Ele foi ordenado como
-Ministro da Palavra e Sacramento em Maio de 2009. É autor do livro O Pai
-Trinitário, traduzido para o português pela Editora Monergismo. Ele serve
-como Membro do Conselho do Instituto Theopolis em Birmingham, AL. Ele
-escreve em uribrito.com e kuyperian.com. É casado há 12 anos e pai de 5
-filhos. 
+------------------------------
+
+Links:
+
+* [Projeto apresentado ao conselho][project]
+* [Dropbox do grupo][dropbox]
+
+[project][{site.url}]
+[dropbox][https://www.dropbox.com/sh/vrqdb5abe56qx2z/AAArFTEFBaAkOPMg6N97KR-Ta?dl=0] 
