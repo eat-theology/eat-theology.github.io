@@ -4,6 +4,23 @@ title: Sobre
 permalink: /about/
 ---
 
+Fique atento às postagens desse site, pois aqui vamos colocar os
+materiais a serem estudados antes de cada reunião!
+
+No [Dropbox][dropbox] vamos colocar livros e outros arquivos relevantes
+às nossas discussões.
+
+------------------------------
+
+Links:
+
+* [Projeto apresentado ao conselho][project]
+* [Formato dos estudos][formato]
+* [Planejamento dos estudos][planejamento]
+* [Dropbox do grupo][dropbox]
+
+------------------------------
+
 O Conversas à Mesa é um grupo que se reunirá periodicamente na IPBut para
 estudar e discutir assuntos Bíblicos e teológicos, cantar salmos e hinos
 e comer juntos. Faremos uso de bons livros e textos Cristãos que serão
@@ -20,12 +37,9 @@ implicações para a nossa vida, e muito mais. Acreditamos que esse tema
 seja rico o suficiente para abarcar muitas questões da vida e da
 teologia. Como disse Lutero, a Ceia é nada menos que o próprio evangelho.
 
-------------------------------
 
-Links:
+[project]: /files/projeto.pdf
+[formato]: https://docs.google.com/document/d/1wS4sB7qlxEMcsky3TsRgOYeQrm5eRpfjx9U9fJ4Dvug/edit 
+[planejamento]: https://docs.google.com/document/d/1Tv06RINbWNDDaTDCNYvQQcFqAzGg0k6AjqntNCb7YqE/edit 
+[dropbox]: https://www.dropbox.com/sh/vrqdb5abe56qx2z/AAArFTEFBaAkOPMg6N97KR-Ta?dl=0
 
-* [Projeto apresentado ao conselho][project]
-* [Dropbox do grupo][dropbox]
-
-[project][{site.url}]
-[dropbox][https://www.dropbox.com/sh/vrqdb5abe56qx2z/AAArFTEFBaAkOPMg6N97KR-Ta?dl=0] 
